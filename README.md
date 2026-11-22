@@ -11,13 +11,11 @@ ship the product around them too.
   the ball isn't visible in ~40% of frames.
 - **Approach:** a transformer ensemble produces per-frame predictions, and
   Viterbi decoding turns them into a temporally consistent possession
-  sequence that carries through the gaps where the ball can't be seen.
-- [Repo](https://github.com/anshu8895/senators)
+  sequence that carries through the gaps where the ball can't be seen.[Repo](https://github.com/anshu8895/senators)
 
 ### 💊 MedReminder
 - A medication reminder and adherence app that I built end to end and
-  launched on the Google Play Store.
-- [Play Store](https://play.google.com/store/apps/details?id=com.anshu8895.medicinereminder)
+  launched on the Google Play Store.[Play Store](https://play.google.com/store/apps/details?id=com.anshu8895.medicinereminder)
 
 ## Toolkit
 
